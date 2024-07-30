@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16247DF7-CAC4-48EE-A0D3-855B7F11D0A0}|\u0421\u002B\u002B_guide.vcxproj|solutionrelative:lesson_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lesson_5.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_5.cpp",
+              "RelativeDocumentMoniker": "lesson_5.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_5.cpp",
+              "RelativeToolTip": "lesson_5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:56:51.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson_8.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_8.cpp",
+              "RelativeDocumentMoniker": "lesson_8.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_8.cpp",
+              "RelativeToolTip": "lesson_8.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T17:42:58.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lesson_7.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_7.cpp",
+              "RelativeDocumentMoniker": "lesson_7.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_7.cpp",
+              "RelativeToolTip": "lesson_7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T17:21:10.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lesson_6.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_6.cpp",
+              "RelativeDocumentMoniker": "lesson_6.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_6.cpp",
+              "RelativeToolTip": "lesson_6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T16:30:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lesson_4.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_4.cpp",
+              "RelativeDocumentMoniker": "lesson_4.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_4.cpp",
+              "RelativeToolTip": "lesson_4.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T14:00:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lesson_3.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_3.cpp",
+              "RelativeDocumentMoniker": "lesson_3.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_3.cpp",
+              "RelativeToolTip": "lesson_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T13:16:08.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lesson_2.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_2.cpp",
+              "RelativeDocumentMoniker": "lesson_2.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_2.cpp",
+              "RelativeToolTip": "lesson_2.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAADIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T11:53:17.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lesson_1.cpp",
+              "DocumentMoniker": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_1.cpp",
+              "RelativeDocumentMoniker": "lesson_1.cpp",
+              "ToolTip": "T:\\IT\\Projects\\C\u002B\u002B\\\u0421\u002B\u002B_guide\\lesson_1.cpp",
+              "RelativeToolTip": "lesson_1.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T12:11:01.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

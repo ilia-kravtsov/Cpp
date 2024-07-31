@@ -40,7 +40,7 @@ int main() {
 	// }
 	// cout << "Summa: " << sum << endl;
 	// cout << "Minimum: " << minimum << endl;
-	
+
 	int multiArray[3][3] = {
 		{1,2,4},
 		{3,4,3},

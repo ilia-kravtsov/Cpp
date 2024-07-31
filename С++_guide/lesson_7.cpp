@@ -10,7 +10,7 @@ int main() {
 	int num = 10; // 4 bytes were provided for this varibale
 
 	int *nums = new int[3]; // указатель указывает на ячейку памяти под массив с тремя элементами соотв. память будет выделена под три элемента
-	                        // The pointer specifies to a memory cell for an array with three elements, respectively. The memory will be allocated for three elements
+							// The pointer specifies to a memory cell for an array with three elements, respectively. The memory will be allocated for three elements
 							// Если происходит операция по выделению памяти то ее нужно после использованя очищать
 							// If memory allocation operation occurs it must be cleaned after using
 							// Память очищать нужно в тот момент когда данные в ней перестают быть нужными

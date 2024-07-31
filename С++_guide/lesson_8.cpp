@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <string>
 
@@ -6,13 +7,13 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "RU");
 
-	char word[] = {'H', 'e', 'l', 'l', 'o','!'}; // the ' It has to be here.
+	char word[] = { 'H', 'e', 'l', 'l', 'o','!' }; // the ' It has to be here.
 	// or char word[] = "Hello!"
 
 	for (int i = 0; i < 6; i++) {
-		cout << word[i]; 
+		cout << word[i];
 	} // that was the only way in 'c' language to specify a string
-	 
+
 	string words = "Hello World!"; // the " It has to be here.
 
 	words[0] = 'F';
@@ -32,3 +33,4 @@ int main() {
 
 	return 0;
 }
+*/

@@ -7,7 +7,7 @@
 
 // 2 action: to describe the main function, the function from all our project starts.
 // any code we write in that main function will be executed when we run our project.
-/* 
+/*
 	int main() {
 		return 0;
 	}
@@ -28,7 +28,7 @@
 
 // 7 action: Comments // or /* */ 
 
-/* 
+/*
 int main() { // main function creation
 	// the area where we can write executable code
 	setlocale(LC_ALL, "RU");

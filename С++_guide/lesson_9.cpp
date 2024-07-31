@@ -1,4 +1,4 @@
-﻿/*
+/*
 
 #include <iostream>
 #include <string>
@@ -9,7 +9,7 @@ void print(string word);
 int add(int a, int b);
 
 int main() {
-	setlocale(LC_ALL, "RU"); 
+	setlocale(LC_ALL, "RU");
 
 	print("Print ");
 	print("Function ");

@@ -16,7 +16,7 @@
 	declaring a variable:
 	int num;
 
-	declaring and assigning a value to variable: 
+	declaring and assigning a value to variable:
 	int firstCppNumber = 11;
 
 	to out the data from a variable:
@@ -27,7 +27,7 @@
 
 	int a, b; // int a = 10, b = 11 - doable
 
-	std::cin # cin - allows us to get data from the user, cin uses >> not << 
+	std::cin # cin - allows us to get data from the user, cin uses >> not <<
 	std::cout # uses <<
 
 	std::cin >> a; // here we will specify the data that we will receive from the user
@@ -50,9 +50,9 @@ int main() {
 	firstCppNumber = 5;
 	std::cout << "ѕеременна€: " << firstCppNumber << std::endl;
 
-	int a, b; 
+	int a, b;
 	std::cout << "¬ведите переменную a: ";
-	std::cin >> a; 
+	std::cin >> a;
 
 	std::cout << "¬ведите переменную b: ";
 	std::cin >> b;

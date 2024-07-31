@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() { 
+int main() {
 
 	int randomNumber = 1 + rand() % 20; // функция для создания случайного числа от 1 до 20
 	cout << randomNumber << endl;
@@ -11,7 +11,7 @@ int main() {
 	float num1, num2, res;
 	cout << "Enter num1: ";
 	cin >> num1;
-	
+
 	cout << "Enter num2: ";
 	cin >> num2;
 
